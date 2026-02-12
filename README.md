@@ -42,7 +42,7 @@ Pastikan Python sudah terinstal di komputer Anda. Ikuti langkah berikut untuk me
 
 1.  **Clone Repository ini** (atau download ZIP):
     ```bash
-    git clone [https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git](https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git)
+    git clone [https://github.com/Adam-Nurwahid/SIFT-Image-Matching-Project.git](https://github.com/USERNAME_ANDA/NAMA_REPO_ANDA.git)
     cd NAMA_REPO_ANDA
     ```
 
